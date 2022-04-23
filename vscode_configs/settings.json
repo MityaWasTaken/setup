@@ -1,0 +1,29 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "file-icons",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "tabnine.experimentalAutoImports": true,
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "editor.fontFamily": "Monaco, Menlo, monospace, 'Courier New'",
+    "workbench.colorTheme": "Syntax Dark",
+    "redhat.telemetry.enabled": true,
+    "window.zoomLevel": 1,
+    "workbench.editorAssociations": {
+        "*": "default"
+    }
+}
